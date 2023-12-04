@@ -1,0 +1,28 @@
+{
+  "version": 0.00,
+  "characters": [
+    {"id": 1, "name": "Борис", "surname": "Ельцин", "clan": "Бруха",
+      "player": "Дима", "stats": "Большая таблица статов", "avatar": "https://128.0.0.1"
+    },
+    {"id": 2, "name": "-", "surname": "-", "clan": "-",
+      "player": "-", "stats": "-", "avatar": "-"
+    },
+    {},
+    {},
+    {}
+  ],
+  "resources": {
+    "img": [
+      {"name": "night-street", "adresses": "path/to/file"},
+      {"name": "day-street", "adresses": "path/to/file"}
+    ],
+    "video": [
+      {"name": "video-1", "adresses": "path/to/file"},
+      {"name": "video-2", "adresses": "path/to/file"}
+    ],
+    "audio": [
+      {"name": "audio-1", "adresses": "path/to/file"},
+      {"name": "audio-2", "adresses": "path/to/file"}
+    ]
+  }
+}
