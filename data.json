@@ -1,28 +1,29 @@
 {
-  "version": 0.00,
+  "version": 0.01,
   "characters": [
     {"id": 1, "name": "Борис", "surname": "Ельцин", "clan": "Бруха",
-      "player": "Дима", "stats": "Большая таблица статов", "avatar": "https://128.0.0.1"
+      "player": "Дима", "stats": "Большая таблица статов", "avatar": "https://genapilot.ru/wp-content/uploads/2019/05/sozdateli-the-masquerade-bloodlines-2-rasskazali-o-klane-bruha.jpg"
+    },
+    {"id": 2, "name": "Лупа", "surname": "Пупин", "clan": "Небруха",
+      "player": "Неизвестный игрок", "stats": "Тут будет вложенная таблица", "avatar": "https://png.pngtree.com/thumb_back/fw800/background/20230610/pngtree-picture-of-a-blue-bird-on-a-black-background-image_2937385.jpg"
     },
     {"id": 2, "name": "-", "surname": "-", "clan": "-",
-      "player": "-", "stats": "-", "avatar": "-"
-    },
-    {},
-    {},
-    {}
+      "player": "-", "stats": "-", "avatar": "-"}
   ],
   "resources": {
     "img": [
-      {"name": "night-street", "adresses": "path/to/file"},
-      {"name": "day-street", "adresses": "path/to/file"}
+      {"name": "night-street", "adresses": "path/to/file/night"},
+      {"name": "day-street", "adresses": "path/to/file/day"}
     ],
     "video": [
-      {"name": "video-1", "adresses": "path/to/file"},
-      {"name": "video-2", "adresses": "path/to/file"}
+      {"name": "video-1", "adresses": "path/to/file/video-1"},
+      {"name": "video-2", "adresses": "path/to/file/video-2"}
     ],
     "audio": [
-      {"name": "audio-1", "adresses": "path/to/file"},
-      {"name": "audio-2", "adresses": "path/to/file"}
+      {"name": "audio-1", "adresses": "path/to/file/audio-1"},
+      {"name": "audio-2", "adresses": "path/to/file/audio-2"}
     ]
   }
 }
+
+
